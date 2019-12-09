@@ -3,6 +3,6 @@
     <title>PHP First Page</title>
   </head>
   <body>
-  <?php echo '<p>Hello World</p>' ?>
+  <?php echo '<p>Hello World! Welcome CAPF team to OpenShift</p>' ?>
   </body>
   </html>
